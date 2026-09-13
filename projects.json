@@ -6,7 +6,7 @@
     "plg_content_fgautolightbox": {
       "name": "FG AutoLightbox",
       "category": "Content",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_content_fgautolightbox/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_content_fgautolightbox/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J3.10",
@@ -34,7 +34,7 @@
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
       "category": "Administration",
-      "logo": "https://raw.githubusercontent.com/ferino75/pkg_fgbackendlangswitcher/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgbackendlangswitcher/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J4",
@@ -61,7 +61,7 @@
     "plg_system_fgadminlogincustom": {
       "name": "FG Admin Login Customizer",
       "category": "Administration",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_system_fgadminlogincustom/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgadminlogincustom/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J6"
@@ -86,7 +86,7 @@
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
       "category": "Security",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_system_fgofflineipwhitelist/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgofflineipwhitelist/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J4",
@@ -113,7 +113,7 @@
     "plg_system_fgemailremover": {
       "name": "FG Email Remover",
       "category": "Privacy",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_system_fgemailremover/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgemailremover/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J3.10",
@@ -141,7 +141,7 @@
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
       "category": "Administration",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_fgeditorswitcher/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_fgeditorswitcher/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J4",
@@ -168,7 +168,7 @@
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
       "category": "Security",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_system_fgremovegenerator/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgremovegenerator/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J5",
@@ -194,7 +194,7 @@
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
       "category": "Administration",
-      "logo": "https://raw.githubusercontent.com/ferino75/plg_system_fgstripcomments/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgstripcomments/master/assets/logo.png",
       "preview": null,
       "compatibility": [
         "J5",
