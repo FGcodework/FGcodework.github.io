@@ -9,7 +9,7 @@ function formatDate(v){if(!v)return"—";const d=new Date(v);if(Number.isNaN(d.g
 function formatNumber(v){const n=Number(v??0);return Number.isFinite(n)?new Intl.NumberFormat().format(n):"0";}
 
 function cardTemplate(p){
- const repoUrl=p.html_url||`https://github.com/ferino75/${p.repo}`;
+ const repoUrl=p.html_url||`https://github.com/FGcodework/${p.repo}`;
  const preview=p.preview?`<div class="preview has-image"><img src="${escapeHtml(p.preview)}" alt="${escapeHtml(p.name)} screenshot" loading="lazy" decoding="async"></div>`:"";
  const download=p.release_zip_url?`<a class="btn btn-primary btn-small" href="${escapeHtml(p.release_zip_url)}">Download ZIP</a>`:"";
  const release=p.release_html_url?`<a class="btn btn-secondary btn-small" href="${escapeHtml(p.release_html_url)}" target="_blank" rel="noopener">Release</a>`:"";
