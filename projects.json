@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-14T12:43:16.336Z"
+    "generated_at": "2026-09-17T04:50:41.649Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.2",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.2",
-      "download_count": 8
+      "download_count": 9
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
