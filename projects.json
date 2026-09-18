@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-17T04:50:41.649Z"
+    "generated_at": "2026-09-18T09:36:53.637Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -157,13 +157,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_fgeditorswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:18:55Z",
-      "pushed_at": "2026-09-13T16:18:51Z",
+      "updated_at": "2026-09-18T07:58:45Z",
+      "pushed_at": "2026-09-18T07:58:41Z",
       "language": "PHP",
-      "release_tag": "v2.3.0",
-      "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.0",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.0",
-      "download_count": 32
+      "release_tag": "v2.3.2",
+      "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.2",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.2",
+      "download_count": 38
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -183,13 +183,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:19:10Z",
-      "pushed_at": "2026-09-13T16:19:06Z",
+      "updated_at": "2026-09-18T09:09:41Z",
+      "pushed_at": "2026-09-18T09:09:37Z",
       "language": "PHP",
-      "release_tag": "v1.5.2",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.2",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.2",
-      "download_count": 9
+      "release_tag": "v1.5.3",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.3",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.3",
+      "download_count": 11
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
