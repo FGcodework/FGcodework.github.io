@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-18T11:11:38.290Z"
+    "generated_at": "2026-09-18T17:58:32.897Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.9",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.9",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.9",
-      "download_count": 43
+      "download_count": 46
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.2",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.2",
-      "download_count": 39
+      "download_count": 41
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
