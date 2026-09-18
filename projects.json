@@ -196,15 +196,10 @@
       "category": "Administration",
       "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgstripcomments/master/assets/logo.png",
       "preview": null,
-      "compatibility": [
-        "J5",
-        "J6"
-      ],
+      "compatibility": ["J5", "J6"],
       "php": "8.1+",
       "description": "Adds private markers to Joomla content that remain visible to administrators but are removed from the public frontend.",
-      "tags": [
-        "Joomla 5–6"
-      ],
+      "tags": ["Joomla 5–6"],
       "jed": "https://extensions.joomla.org/extension/extension-specific/extensions-specific-non-sorted/strip-comments/",
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgstripcomments",
@@ -216,6 +211,18 @@
       "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.1",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgstripcomments/zipball/v2.0.1",
       "download_count": 15
-    }
+    },
+"plg_system_fgresponsivetables": {
+  "name": "FG Responsive Tables",
+  "category": "Content",
+  "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgresponsivetables/master/assets/logo.png",
+  "preview": null,
+  "compatibility": ["J4", "J5", "J6"],
+  "php": "7.4+",
+  "description": "Turns any <table class=\"responsiv\"> into a labelled, accessible card layout on narrow screens without touching the desktop table.",
+  "tags": ["Joomla 4–6"],
+  "jed": null,
+  "featured": false
+}    
   }
 }
