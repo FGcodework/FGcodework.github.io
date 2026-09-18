@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-18T09:36:53.637Z"
+    "generated_at": "2026-09-18T11:11:38.290Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.2",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.2",
-      "download_count": 38
+      "download_count": 39
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.3",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.3",
-      "download_count": 11
+      "download_count": 12
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
