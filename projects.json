@@ -243,6 +243,18 @@
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.5",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgresponsivetables/zipball/v2.1.5",
       "download_count": 42
-    }
+    },
+"plg_content_fgwatermark": {
+  "name": "FG Watermark",
+  "category": "Content",
+  "logo": "https://raw.githubusercontent.com/FGcodework/plg_content_fgwatermark/master/assets/logo.png",
+  "preview": null,
+  "compatibility": ["J4", "J5", "J6"],
+  "php": "7.4+",
+  "description": "Automatically watermarks images inside Joomla article content — an image logo, a text overlay, or both — with cached output so nothing is re-rendered on every page load.",
+  "tags": ["Joomla 4.4–6"],
+  "jed": null,
+  "featured": false
+}    
   }
 }
