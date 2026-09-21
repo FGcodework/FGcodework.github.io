@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-20T16:03:55.695Z"
+    "generated_at": "2026-09-21T12:45:34.141Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -23,13 +23,13 @@
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:18:48Z",
+      "updated_at": "2026-09-21T07:28:19Z",
       "pushed_at": "2026-09-13T16:18:45Z",
       "language": "PHP",
       "release_tag": "v2.3.9",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.9",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.9",
-      "download_count": 55
+      "download_count": 57
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -50,7 +50,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:18:45Z",
+      "updated_at": "2026-09-21T07:35:29Z",
       "pushed_at": "2026-09-13T16:18:42Z",
       "language": "PHP",
       "release_tag": "v1.2.20",
@@ -75,7 +75,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:18:57Z",
+      "updated_at": "2026-09-21T07:27:44Z",
       "pushed_at": "2026-09-13T16:18:54Z",
       "language": "PHP",
       "release_tag": "v1.18.0",
@@ -102,7 +102,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:19:07Z",
+      "updated_at": "2026-09-21T07:42:55Z",
       "pushed_at": "2026-09-13T16:19:03Z",
       "language": "PHP",
       "release_tag": "v1.1.3",
@@ -130,7 +130,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgemailremover",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:19:04Z",
+      "updated_at": "2026-09-21T07:24:35Z",
       "pushed_at": "2026-09-13T16:19:00Z",
       "language": "PHP",
       "release_tag": "j46-v1.8.1",
@@ -157,13 +157,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_fgeditorswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-09-18T07:58:45Z",
+      "updated_at": "2026-09-21T07:26:16Z",
       "pushed_at": "2026-09-18T07:58:41Z",
       "language": "PHP",
       "release_tag": "v2.3.2",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.2",
-      "download_count": 50
+      "download_count": 51
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -183,7 +183,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator",
       "stargazers_count": 0,
-      "updated_at": "2026-09-18T09:09:41Z",
+      "updated_at": "2026-09-21T10:58:23Z",
       "pushed_at": "2026-09-18T09:09:37Z",
       "language": "PHP",
       "release_tag": "v1.5.3",
@@ -209,7 +209,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgstripcomments",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:19:15Z",
+      "updated_at": "2026-09-21T07:28:07Z",
       "pushed_at": "2026-09-13T16:19:11Z",
       "language": "PHP",
       "release_tag": "v2.0.1",
@@ -236,7 +236,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables",
       "stargazers_count": 0,
-      "updated_at": "2026-09-13T16:19:12Z",
+      "updated_at": "2026-09-21T07:27:24Z",
       "pushed_at": "2026-09-13T16:19:09Z",
       "language": "JavaScript",
       "release_tag": "v2.1.5",
@@ -263,7 +263,7 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_content_fgwatermark",
       "stargazers_count": 0,
-      "updated_at": "2026-09-18T11:48:24Z",
+      "updated_at": "2026-09-21T07:43:29Z",
       "pushed_at": "2026-09-18T11:48:20Z",
       "language": "PHP",
       "release_tag": "v3.0.0",
