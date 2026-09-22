@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-22T16:56:05.289Z"
+    "generated_at": "2026-09-22T21:16:59.772Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.9",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.9",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.9",
-      "download_count": 57
+      "download_count": 58
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -102,8 +102,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist",
       "stargazers_count": 0,
-      "updated_at": "2026-09-21T07:42:55Z",
-      "pushed_at": "2026-09-13T16:19:03Z",
+      "updated_at": "2026-09-22T17:32:08Z",
+      "pushed_at": "2026-09-22T17:32:04Z",
       "language": "PHP",
       "release_tag": "v1.1.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/tag/v1.1.3",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.3",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.3",
-      "download_count": 21
+      "download_count": 27
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
