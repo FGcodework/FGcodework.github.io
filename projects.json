@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-22T11:35:46.196Z"
+    "generated_at": "2026-09-22T16:56:05.289Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -75,8 +75,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
-      "updated_at": "2026-09-22T07:07:26Z",
-      "pushed_at": "2026-09-22T07:07:22Z",
+      "updated_at": "2026-09-22T14:05:05Z",
+      "pushed_at": "2026-09-22T14:05:01Z",
       "language": "PHP",
       "release_tag": "v1.18.0",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.0",
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.8.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.8.1",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgemailremover/zipball/j46-v1.8.1",
-      "download_count": 72
+      "download_count": 73
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.2",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.2",
-      "download_count": 52
+      "download_count": 54
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
