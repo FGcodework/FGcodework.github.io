@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-24T11:43:18.850Z"
+    "generated_at": "2026-09-24T17:08:54.612Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -23,13 +23,13 @@
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
-      "updated_at": "2026-09-24T11:41:35Z",
-      "pushed_at": "2026-09-24T11:41:32Z",
+      "updated_at": "2026-09-24T11:59:41Z",
+      "pushed_at": "2026-09-24T11:59:56Z",
       "language": "PHP",
-      "release_tag": "v2.3.9",
-      "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.9",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.9",
-      "download_count": 58
+      "release_tag": "v2.3.10",
+      "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.10",
+      "download_count": 59
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -130,13 +130,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgemailremover",
       "stargazers_count": 0,
-      "updated_at": "2026-09-23T20:23:40Z",
-      "pushed_at": "2026-09-23T20:25:24Z",
+      "updated_at": "2026-09-24T12:37:07Z",
+      "pushed_at": "2026-09-24T12:38:38Z",
       "language": "PHP",
-      "release_tag": "j46-v1.9.1",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.1",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgemailremover/zipball/j46-v1.9.1",
-      "download_count": 78
+      "release_tag": "j46-v1.9.2",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.2",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgemailremover/zipball/j46-v1.9.2",
+      "download_count": 80
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
