@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-23T21:29:08.327Z"
+    "generated_at": "2026-09-24T11:43:18.850Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -23,8 +23,8 @@
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
-      "updated_at": "2026-09-21T07:28:19Z",
-      "pushed_at": "2026-09-13T16:18:45Z",
+      "updated_at": "2026-09-24T11:41:35Z",
+      "pushed_at": "2026-09-24T11:41:32Z",
       "language": "PHP",
       "release_tag": "v2.3.9",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.9",
@@ -157,13 +157,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_fgeditorswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-09-21T14:37:04Z",
-      "pushed_at": "2026-09-21T14:36:59Z",
+      "updated_at": "2026-09-24T08:14:45Z",
+      "pushed_at": "2026-09-24T08:14:49Z",
       "language": "PHP",
-      "release_tag": "v2.3.2",
-      "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.2",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.2",
-      "download_count": 54
+      "release_tag": "v2.3.4",
+      "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.4",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.4",
+      "download_count": 61
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -183,13 +183,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator",
       "stargazers_count": 0,
-      "updated_at": "2026-09-21T10:58:23Z",
-      "pushed_at": "2026-09-18T09:09:37Z",
+      "updated_at": "2026-09-24T07:54:35Z",
+      "pushed_at": "2026-09-24T07:38:11Z",
       "language": "PHP",
-      "release_tag": "v1.5.3",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.3",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.3",
-      "download_count": 29
+      "release_tag": "v1.5.4",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.4",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.4",
+      "download_count": 31
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -236,13 +236,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables",
       "stargazers_count": 0,
-      "updated_at": "2026-09-21T14:54:44Z",
-      "pushed_at": "2026-09-21T14:54:38Z",
+      "updated_at": "2026-09-24T06:50:45Z",
+      "pushed_at": "2026-09-24T06:50:41Z",
       "language": "JavaScript",
-      "release_tag": "v2.1.5",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.5",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgresponsivetables/zipball/v2.1.5",
-      "download_count": 54
+      "release_tag": "v2.1.6",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.6",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgresponsivetables/zipball/v2.1.6",
+      "download_count": 57
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
