@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-24T17:08:54.612Z"
+    "generated_at": "2026-09-24T21:29:49.448Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -75,13 +75,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
-      "updated_at": "2026-09-22T14:05:05Z",
-      "pushed_at": "2026-09-22T14:05:01Z",
+      "updated_at": "2026-09-24T18:17:03Z",
+      "pushed_at": "2026-09-24T18:17:05Z",
       "language": "PHP",
-      "release_tag": "v1.18.0",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.0",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.0",
-      "download_count": 21
+      "release_tag": "v1.18.2",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.2",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.2",
+      "download_count": 23
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.9.2",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgemailremover/zipball/j46-v1.9.2",
-      "download_count": 80
+      "download_count": 81
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.4",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.4",
-      "download_count": 61
+      "download_count": 62
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
