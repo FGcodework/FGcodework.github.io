@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-25T17:09:01.673Z"
+    "generated_at": "2026-09-25T21:33:41.716Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.10",
-      "download_count": 59
+      "download_count": 54
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.4",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.4",
-      "download_count": 63
+      "download_count": 64
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.4",
-      "download_count": 31
+      "download_count": 33
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -209,13 +209,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgstripcomments",
       "stargazers_count": 0,
-      "updated_at": "2026-09-25T11:59:26Z",
-      "pushed_at": "2026-09-25T11:59:30Z",
+      "updated_at": "2026-09-25T18:39:44Z",
+      "pushed_at": "2026-09-25T18:39:40Z",
       "language": "PHP",
-      "release_tag": "v2.0.5",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.5",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgstripcomments/zipball/v2.0.5",
-      "download_count": 25
+      "release_tag": "v2.0.7",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.7",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgstripcomments/zipball/v2.0.7",
+      "download_count": 8
     },
     "plg_system_fgresponsivetables": {
       "name": "FG Responsive Tables",
