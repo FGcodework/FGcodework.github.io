@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-24T21:29:49.448Z"
+    "generated_at": "2026-09-25T04:55:29.642Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.4",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.4",
-      "download_count": 62
+      "download_count": 63
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
