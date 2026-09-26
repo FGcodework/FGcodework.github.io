@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-25T21:33:41.716Z"
+    "generated_at": "2026-09-26T10:35:45.634Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -75,13 +75,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
-      "updated_at": "2026-09-25T05:52:35Z",
-      "pushed_at": "2026-09-25T05:52:38Z",
+      "updated_at": "2026-09-26T10:15:33Z",
+      "pushed_at": "2026-09-26T10:15:39Z",
       "language": "PHP",
-      "release_tag": "v1.18.3",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.3",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.3",
-      "download_count": 24
+      "release_tag": "v1.18.6",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.6",
+      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.6",
+      "download_count": 27
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.4",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.4",
-      "download_count": 64
+      "download_count": 65
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -183,13 +183,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator",
       "stargazers_count": 0,
-      "updated_at": "2026-09-24T07:54:35Z",
-      "pushed_at": "2026-09-24T07:38:11Z",
+      "updated_at": "2026-09-26T09:15:36Z",
+      "pushed_at": "2026-09-26T09:15:33Z",
       "language": "PHP",
       "release_tag": "v1.5.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.4",
-      "download_count": 33
+      "download_count": 34
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -209,8 +209,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgstripcomments",
       "stargazers_count": 0,
-      "updated_at": "2026-09-25T18:39:44Z",
-      "pushed_at": "2026-09-25T18:39:40Z",
+      "updated_at": "2026-09-26T08:53:18Z",
+      "pushed_at": "2026-09-26T08:53:14Z",
       "language": "PHP",
       "release_tag": "v2.0.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.7",
