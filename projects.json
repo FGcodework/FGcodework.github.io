@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-27T11:59:51.474Z"
+    "generated_at": "2026-09-27T21:19:29.699Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.10",
-      "download_count": 54
+      "download_count": 55
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -215,7 +215,7 @@
       "release_tag": "v2.0.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.7",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgstripcomments/zipball/v2.0.7",
-      "download_count": 8
+      "download_count": 9
     },
     "plg_system_fgresponsivetables": {
       "name": "FG Responsive Tables",
