@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-28T13:51:15.126Z"
+    "generated_at": "2026-09-28T23:15:10.814Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.10",
-      "download_count": 65
+      "download_count": 70
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -81,7 +81,7 @@
       "release_tag": "v1.18.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.6",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.6",
-      "download_count": 35
+      "download_count": 44
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
