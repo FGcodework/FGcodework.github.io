@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-27T21:19:29.699Z"
+    "generated_at": "2026-09-28T05:21:14.419Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -81,7 +81,7 @@
       "release_tag": "v1.18.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.6",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.6",
-      "download_count": 27
+      "download_count": 35
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -108,7 +108,7 @@
       "release_tag": "v1.1.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/tag/v1.1.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgofflineipwhitelist/zipball/v1.1.4",
-      "download_count": 26
+      "download_count": 36
     },
     "plg_system_fgemailremover": {
       "name": "FG Email Remover",
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.9.2",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.2",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgemailremover/zipball/j46-v1.9.2",
-      "download_count": 81
+      "download_count": 91
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.4",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.4",
-      "download_count": 68
+      "download_count": 69
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.4",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.4",
-      "download_count": 35
+      "download_count": 36
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -215,7 +215,7 @@
       "release_tag": "v2.0.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.7",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgstripcomments/zipball/v2.0.7",
-      "download_count": 9
+      "download_count": 12
     },
     "plg_system_fgresponsivetables": {
       "name": "FG Responsive Tables",
@@ -269,7 +269,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgwatermark/zipball/v3.0.0",
-      "download_count": 14
+      "download_count": 20
     }
   }
 }
