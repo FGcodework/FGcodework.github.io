@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-29T12:50:10.221Z"
+    "generated_at": "2026-09-29T22:13:34.375Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -23,8 +23,8 @@
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
-      "updated_at": "2026-09-24T11:59:41Z",
-      "pushed_at": "2026-09-24T11:59:56Z",
+      "updated_at": "2026-09-29T18:36:24Z",
+      "pushed_at": "2026-09-29T18:36:05Z",
       "language": "PHP",
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.5",
-      "download_count": 72
+      "download_count": 73
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
