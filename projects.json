@@ -270,6 +270,18 @@
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgwatermark/zipball/v3.0.0",
       "download_count": 21
-    }
+    },
+    "plg_system_fgcustomrightclick": {
+      "name": "FG Custom Right Click",
+      "category": "Content",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgcustomrightclick/master/assets/logo.png",
+      "preview": null,
+      "compatibility": ["J4", "J5", "J6"],
+      "php": "8.1+",
+      "description": "Disables printing, text selection, image dragging, developer-tools shortcuts and the browser's right-click menu on the frontend, with an optional popup message or a fully custom, accessible context menu.",
+      "tags": ["Joomla 4–6"],
+      "jed": "https://extensions.joomla.org/extension/site-management/fg-custom-right-click/",
+      "featured": false
+    }    
   }
 }
