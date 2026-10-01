@@ -19,7 +19,7 @@
       "tags": [
         "Joomla 3.10–6"
       ],
-      "jed": null,
+      "jed": "https://extensions.joomla.org/extension/photos-a-images/fg-autolightbox/",
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
@@ -71,7 +71,7 @@
       "tags": [
         "Joomla 6"
       ],
-      "jed": null,
+      "jed": "https://extensions.joomla.org/extension/administration/admin-styling/fg-admin-login-customizer/",
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
