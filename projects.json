@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-01T09:56:52.953Z"
+    "generated_at": "2026-10-01T10:13:53.746Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -28,7 +28,7 @@
       "language": "PHP",
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgautolightbox/zipball/v2.3.10",
+      "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
       "download_count": 77
     },
     "pkg_fgbackendlangswitcher": {
@@ -55,7 +55,7 @@
       "language": "PHP",
       "release_tag": "v1.2.20",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.2.20",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/pkg_fgbackendlangswitcher/zipball/v1.2.20",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.2.20/pkg_fgbackendlangswitcher_v1.2.20.zip",
       "download_count": 16
     },
     "plg_system_fgadminlogincustom": {
@@ -80,7 +80,7 @@
       "language": "PHP",
       "release_tag": "v1.18.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.6",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgadminlogincustom/zipball/v1.18.6",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.18.6/plg_system_fgadminlogincustom_v1.18.6.zip",
       "download_count": 54
     },
     "plg_system_fgofflineipwhitelist": {
@@ -107,8 +107,8 @@
       "language": "PHP",
       "release_tag": "v1.1.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/tag/v1.1.6",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgofflineipwhitelist/zipball/v1.1.6",
-      "download_count": 39
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/download/v1.1.6/plg_system_fgofflineipwhitelist_v1.1.6.zip",
+      "download_count": 40
     },
     "plg_system_fgemailremover": {
       "name": "FG Email Remover",
@@ -135,7 +135,7 @@
       "language": "PHP",
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgemailremover/zipball/j46-v1.9.3",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
       "download_count": 96
     },
     "plg_fgeditorswitcher": {
@@ -162,7 +162,7 @@
       "language": "PHP",
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_fgeditorswitcher/zipball/v2.3.5",
+      "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
       "download_count": 83
     },
     "plg_system_fgremovegenerator": {
@@ -188,7 +188,7 @@
       "language": "PHP",
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgremovegenerator/zipball/v1.5.5",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.5.5/plg_system_fgremovegenerator_v1.5.5.zip",
       "download_count": 47
     },
     "plg_system_fgstripcomments": {
@@ -214,7 +214,7 @@
       "language": "PHP",
       "release_tag": "v2.0.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.7",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgstripcomments/zipball/v2.0.7",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/download/v2.0.7/plg_system_fgstripcomments_v2.0.7.zip",
       "download_count": 12
     },
     "plg_system_fgresponsivetables": {
@@ -241,7 +241,7 @@
       "language": "JavaScript",
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgresponsivetables/zipball/v2.1.7",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
       "download_count": 67
     },
     "plg_content_fgwatermark": {
@@ -268,7 +268,7 @@
       "language": "PHP",
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_content_fgwatermark/zipball/v3.0.0",
+      "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
       "download_count": 21
     },
     "plg_system_fgcustomrightclick": {
@@ -295,7 +295,7 @@
       "language": "JavaScript",
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
-      "release_zip_url": "https://api.github.com/repos/FGcodework/plg_system_fgcustomrightclick/zipball/v1.13.4",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
       "download_count": 62
     }
   }
