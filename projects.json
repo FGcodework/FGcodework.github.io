@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-01T10:29:35.306Z"
+    "generated_at": "2026-10-01T13:10:31.662Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
-      "download_count": 77
+      "download_count": 78
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.5.5/plg_system_fgremovegenerator_v1.5.5.zip",
-      "download_count": 47
+      "download_count": 48
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
