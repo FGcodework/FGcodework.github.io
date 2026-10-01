@@ -56,7 +56,8 @@ jobs:
                 const release = await github.rest.repos.getLatestRelease({ owner, repo });
                 releaseTag = release.data.tag_name || null;
                 releaseHtmlUrl = release.data.html_url || null;
-                releaseZipUrl = release.data.zipball_url || null;
+                const zipAsset = (release.data.assets || []).find(a => a.name.toLowerCase().endsWith(".zip"));
+                releaseZipUrl = zipAsset ? zipAsset.browser_download_url : (release.data.zipball_url || null);
               } catch (error) {
                 if (error.status !== 404) throw error;
               }
