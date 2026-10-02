@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-02T12:31:33.696Z"
+    "generated_at": "2026-10-02T22:12:07.129Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -81,7 +81,7 @@
       "release_tag": "v1.18.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.6",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.18.6/plg_system_fgadminlogincustom_v1.18.6.zip",
-      "download_count": 68
+      "download_count": 69
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 86
+      "download_count": 87
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
