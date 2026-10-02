@@ -83,6 +83,9 @@
     }
 
 	.brand-logo { display: block; height: 32px; width: auto; }
+	.brand-logo-for-light { display: none; }
+	[data-theme="light"] .brand-logo-for-dark  { display: none; }
+	[data-theme="light"] .brand-logo-for-light { display: block; }	
 
     .nav-links { display: flex; align-items: center; gap: 22px; }
     .nav-links a { color: var(--muted); font-size: .93rem; }
