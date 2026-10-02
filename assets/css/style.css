@@ -82,6 +82,8 @@
       font-weight: 950;
     }
 
+	.brand-logo { display: block; height: 32px; width: auto; }
+
     .nav-links { display: flex; align-items: center; gap: 22px; }
     .nav-links a { color: var(--muted); font-size: .93rem; }
     .nav-links a:hover { color: var(--text); }
