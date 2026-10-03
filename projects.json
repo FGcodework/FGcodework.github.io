@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-03T11:37:29.273Z"
+    "generated_at": "2026-10-03T21:12:39.994Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -263,8 +263,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_content_fgwatermark",
       "stargazers_count": 0,
-      "updated_at": "2026-10-02T06:28:55Z",
-      "pushed_at": "2026-10-02T06:28:51Z",
+      "updated_at": "2026-10-03T16:49:16Z",
+      "pushed_at": "2026-10-03T16:49:12Z",
       "language": "PHP",
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
