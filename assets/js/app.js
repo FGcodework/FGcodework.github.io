@@ -14,13 +14,14 @@ function cardTemplate(p){
  const download=p.release_zip_url?`<a class="btn btn-primary btn-small" href="${escapeHtml(p.release_zip_url)}">Download ZIP</a>`:"";
  const release=p.release_html_url?`<a class="btn btn-secondary btn-small" href="${escapeHtml(p.release_html_url)}" target="_blank" rel="noopener">Release</a>`:"";
  const jed=p.jed?`<a class="btn btn-secondary btn-small" href="${escapeHtml(p.jed)}" target="_blank" rel="noopener">JED</a>`:"";
+ const demo=p.demo?`<a class="btn btn-secondary btn-small" href="${escapeHtml(p.demo)}" target="_blank" rel="noopener">Demo</a>`:"";
  const php=p.php?`<span class="compat-separator" aria-hidden="true">|</span><span class="compat-item"><img src="./assets/images/php.svg" alt="PHP" class="php-compat-logo"><span>${escapeHtml(p.php)}</span></span>`:"";
  return `<article class="card ${p.featured?"featured":""}" data-category="${escapeHtml(p.category)}">
  <div class="card-top"><div class="project-logo"><img src="${escapeHtml(p.logo)}" alt="${escapeHtml(p.name)} logo" loading="lazy" decoding="async"></div>
  <div class="badges"><span class="badge accent">${escapeHtml(p.category)}</span>${(p.tags||[]).map(t=>`<span class="badge">${escapeHtml(t)}</span>`).join("")}</div></div>
  ${preview}<h3>${escapeHtml(p.name)}</h3><p>${escapeHtml(p.description)}</p><div class="card-spacer"></div>
  <div class="meta"><span><strong>${escapeHtml(p.release_tag||"No release")}</strong> latest release</span><span>★ ${escapeHtml(p.stargazers_count??0)}</span><span>↓ ${escapeHtml(formatNumber(p.download_count??0))} downloads</span><span>Updated ${escapeHtml(formatDate(p.pushed_at||p.updated_at))}</span></div>
- <div class="card-actions"><span class="compat"><span class="compat-item"><img src="./assets/images/joomla.svg" alt="Joomla" class="joomla-compat-logo"><span>${(p.compatibility||[]).map(v=>escapeHtml(v.replace(/^J/,""))).join(" · ")}</span></span>${php}</span>${download}${release}${jed}<a class="btn btn-secondary btn-small" href="${escapeHtml(repoUrl)}" target="_blank" rel="noopener">GitHub</a></div>
+ <div class="card-actions"><span class="compat"><span class="compat-item"><img src="./assets/images/joomla.svg" alt="Joomla" class="joomla-compat-logo"><span>${(p.compatibility||[]).map(v=>escapeHtml(v.replace(/^J/,""))).join(" · ")}</span></span>${php}</span>${download}${demo}${release}${jed}<a class="btn btn-secondary btn-small" href="${escapeHtml(repoUrl)}" target="_blank" rel="noopener">GitHub</a></div>
  </article>`;
 }
 

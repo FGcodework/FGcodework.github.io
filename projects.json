@@ -248,6 +248,7 @@
       "name": "FG Watermark",
       "category": "Content",
       "logo": "https://raw.githubusercontent.com/FGcodework/plg_content_fgwatermark/master/assets/logo.png",
+      "demo": "https://fgcodework.github.io/plg_content_fgwatermark/",
       "preview": null,
       "compatibility": [
         "J4",
