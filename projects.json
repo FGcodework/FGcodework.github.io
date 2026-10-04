@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-04T12:19:16.585Z"
+    "generated_at": "2026-10-04T18:53:02.241Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 88
+      "download_count": 90
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -264,9 +264,9 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_content_fgwatermark",
       "stargazers_count": 0,
-      "updated_at": "2026-10-03T16:49:16Z",
-      "pushed_at": "2026-10-03T16:49:12Z",
-      "language": "PHP",
+      "updated_at": "2026-10-04T18:35:55Z",
+      "pushed_at": "2026-10-04T18:35:52Z",
+      "language": "Python",
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
