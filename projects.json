@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-04T18:53:02.241Z"
+    "generated_at": "2026-10-05T14:33:56.589Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -50,8 +50,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-09-21T07:35:29Z",
-      "pushed_at": "2026-09-13T16:18:42Z",
+      "updated_at": "2026-10-05T13:54:40Z",
+      "pushed_at": "2026-10-05T13:54:35Z",
       "language": "PHP",
       "release_tag": "v1.2.20",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.2.20",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.5.5/plg_system_fgremovegenerator_v1.5.5.zip",
-      "download_count": 49
+      "download_count": 50
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -270,7 +270,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
-      "download_count": 22
+      "download_count": 26
     },
     "plg_system_fgcustomrightclick": {
       "name": "FG Custom Right Click",
@@ -297,7 +297,7 @@
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
-      "download_count": 63
+      "download_count": 65
     }
   }
 }
