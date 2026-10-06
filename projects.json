@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-06T06:17:53.659Z"
+    "generated_at": "2026-10-06T18:20:17.093Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -50,13 +50,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-10-06T05:59:04Z",
-      "pushed_at": "2026-10-06T05:59:00Z",
+      "updated_at": "2026-10-06T06:51:40Z",
+      "pushed_at": "2026-10-06T06:51:36Z",
       "language": "PHP",
-      "release_tag": "v1.3.0",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.0",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.0/pkg_fgbackendlangswitcher_v1.3.0.zip",
-      "download_count": 18
+      "release_tag": "v1.3.1",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
+      "download_count": 20
     },
     "plg_system_fgadminlogincustom": {
       "name": "FG Admin Login Customizer",
@@ -108,7 +108,7 @@
       "release_tag": "v1.1.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/tag/v1.1.6",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/download/v1.1.6/plg_system_fgofflineipwhitelist_v1.1.6.zip",
-      "download_count": 42
+      "download_count": 43
     },
     "plg_system_fgemailremover": {
       "name": "FG Email Remover",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 90
+      "download_count": 92
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -209,8 +209,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgstripcomments",
       "stargazers_count": 0,
-      "updated_at": "2026-09-26T08:53:18Z",
-      "pushed_at": "2026-09-26T08:53:14Z",
+      "updated_at": "2026-10-06T08:58:50Z",
+      "pushed_at": "2026-10-06T08:58:46Z",
       "language": "PHP",
       "release_tag": "v2.0.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgstripcomments/releases/tag/v2.0.7",
@@ -236,13 +236,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables",
       "stargazers_count": 0,
-      "updated_at": "2026-10-05T18:07:30Z",
-      "pushed_at": "2026-10-05T18:07:25Z",
+      "updated_at": "2026-10-06T08:38:04Z",
+      "pushed_at": "2026-10-06T08:38:00Z",
       "language": "JavaScript",
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 68
+      "download_count": 69
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
@@ -270,7 +270,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
-      "download_count": 27
+      "download_count": 28
     },
     "plg_system_fgcustomrightclick": {
       "name": "FG Custom Right Click",
