@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-05T14:33:56.589Z"
+    "generated_at": "2026-10-06T00:02:28.570Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -50,8 +50,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-10-05T13:54:40Z",
-      "pushed_at": "2026-10-05T13:54:35Z",
+      "updated_at": "2026-10-05T18:37:49Z",
+      "pushed_at": "2026-10-05T18:37:44Z",
       "language": "PHP",
       "release_tag": "v1.2.20",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.2.20",
@@ -108,7 +108,7 @@
       "release_tag": "v1.1.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/tag/v1.1.6",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgofflineipwhitelist/releases/download/v1.1.6/plg_system_fgofflineipwhitelist_v1.1.6.zip",
-      "download_count": 41
+      "download_count": 42
     },
     "plg_system_fgemailremover": {
       "name": "FG Email Remover",
@@ -236,13 +236,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables",
       "stargazers_count": 0,
-      "updated_at": "2026-10-02T07:21:47Z",
-      "pushed_at": "2026-10-02T07:21:43Z",
+      "updated_at": "2026-10-05T18:07:30Z",
+      "pushed_at": "2026-10-05T18:07:25Z",
       "language": "JavaScript",
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 67
+      "download_count": 68
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
