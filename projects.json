@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-06T18:20:17.093Z"
+    "generated_at": "2026-10-07T05:56:39.769Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -130,8 +130,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgemailremover",
       "stargazers_count": 0,
-      "updated_at": "2026-09-28T10:44:17Z",
-      "pushed_at": "2026-09-28T10:46:05Z",
+      "updated_at": "2026-10-06T18:57:10Z",
+      "pushed_at": "2026-10-06T18:57:05Z",
       "language": "PHP",
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
@@ -157,13 +157,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_fgeditorswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-09-28T09:03:17Z",
-      "pushed_at": "2026-09-28T09:03:24Z",
+      "updated_at": "2026-10-06T19:44:28Z",
+      "pushed_at": "2026-10-06T19:44:23Z",
       "language": "PHP",
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 92
+      "download_count": 93
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
