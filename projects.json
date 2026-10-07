@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-07T13:19:51.476Z"
+    "generated_at": "2026-10-07T23:03:59.134Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
-      "download_count": 96
+      "download_count": 97
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
