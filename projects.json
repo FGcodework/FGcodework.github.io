@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-07T05:56:39.769Z"
+    "generated_at": "2026-10-07T13:19:51.476Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
-      "download_count": 80
+      "download_count": 81
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -130,8 +130,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgemailremover",
       "stargazers_count": 0,
-      "updated_at": "2026-10-06T18:57:10Z",
-      "pushed_at": "2026-10-06T18:57:05Z",
+      "updated_at": "2026-10-07T06:47:54Z",
+      "pushed_at": "2026-10-07T06:47:50Z",
       "language": "PHP",
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
@@ -183,8 +183,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator",
       "stargazers_count": 0,
-      "updated_at": "2026-09-30T09:10:38Z",
-      "pushed_at": "2026-09-30T09:10:33Z",
+      "updated_at": "2026-10-07T10:35:44Z",
+      "pushed_at": "2026-10-07T10:35:41Z",
       "language": "PHP",
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
@@ -270,7 +270,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
-      "download_count": 28
+      "download_count": 29
     },
     "plg_system_fgcustomrightclick": {
       "name": "FG Custom Right Click",
@@ -297,7 +297,7 @@
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
-      "download_count": 65
+      "download_count": 66
     }
   }
 }
