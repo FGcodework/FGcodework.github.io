@@ -6,7 +6,7 @@
     "plg_content_fgautolightbox": {
       "name": "FG AutoLightbox",
       "category": "Content",
-      "logo": "https://raw.githubusercontent.com/FGcodework/plg_content_fgautolightbox/master/assets/logo.png",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_content_fgautolightbox/master/assets/logo.webp",
       "preview": null,
       "compatibility": [
         "J3.10",
