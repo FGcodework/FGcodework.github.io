@@ -46,7 +46,7 @@
       "tags": [
         "Joomla 4–6"
       ],
-      "jed": null,
+      "jed": "https://extensions.joomla.org/extension/languages/fg-backend-langswitcher/",
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher",
       "stargazers_count": 0,
@@ -232,7 +232,7 @@
       "tags": [
         "Joomla 4–6"
       ],
-      "jed": null,
+      "jed": "https://extensions.joomla.org/extension/style-a-design/fg-responsive-tables/",
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables",
       "stargazers_count": 0,
@@ -260,7 +260,7 @@
       "tags": [
         "Joomla 4.4–6"
       ],
-      "jed": null,
+      "jed": "https://extensions.joomla.org/extension/photos-a-images/fg-watermark/",
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_content_fgwatermark",
       "stargazers_count": 0,
