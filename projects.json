@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-09T05:30:36.050Z"
+    "generated_at": "2026-10-09T13:14:10.384Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -56,7 +56,7 @@
       "release_tag": "v1.3.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
-      "download_count": 23
+      "download_count": 24
     },
     "plg_system_fgadminlogincustom": {
       "name": "FG Admin Login Customizer",
@@ -81,7 +81,7 @@
       "release_tag": "v1.18.6",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.18.6",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.18.6/plg_system_fgadminlogincustom_v1.18.6.zip",
-      "download_count": 72
+      "download_count": 73
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -242,7 +242,7 @@
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 72
+      "download_count": 74
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
@@ -297,7 +297,7 @@
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
-      "download_count": 66
+      "download_count": 67
     }
   }
 }
