@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-11T12:46:53.364Z"
+    "generated_at": "2026-10-11T21:56:22.171Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -50,8 +50,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-10-08T17:27:00Z",
-      "pushed_at": "2026-10-08T17:26:56Z",
+      "updated_at": "2026-10-11T18:17:21Z",
+      "pushed_at": "2026-10-11T18:17:18Z",
       "language": "PHP",
       "release_tag": "v1.3.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
@@ -157,8 +157,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_fgeditorswitcher",
       "stargazers_count": 0,
-      "updated_at": "2026-10-08T17:33:42Z",
-      "pushed_at": "2026-10-08T17:33:37Z",
+      "updated_at": "2026-10-11T17:32:23Z",
+      "pushed_at": "2026-10-11T17:32:18Z",
       "language": "PHP",
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
