@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-10T12:29:22.606Z"
+    "generated_at": "2026-10-11T05:43:56.306Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -81,7 +81,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.1/plg_system_fgadminlogincustom_v1.19.1.zip",
-      "download_count": 73
+      "download_count": 74
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
