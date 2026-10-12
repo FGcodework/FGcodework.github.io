@@ -325,6 +325,19 @@
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.6.0",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.6.0/pkg_fgsystemreport_v1.6.0.zip",
       "download_count": 7
-    }
+    },
+"plg_system_fgfaviconmanager": {
+  "name": "FG Favicon Manager",
+  "category": "Administration",
+  "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgfaviconmanager/master/assets/logo.webp",
+  "preview": null,
+  "compatibility": ["J5", "J6"],
+  "php": "8.1+",
+  "description": "Turns one source image into every favicon your site needs: PNG and ICO icons, Apple touch icon, dark-mode and administrator favicons, web app manifest and iOS web app tags, without editing the template.",
+  "tags": ["Joomla 5–6"],
+  "jed": null,
+  "demo": null,
+  "featured": false
+}    
   }
 }
