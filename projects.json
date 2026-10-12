@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-12T15:20:11.879Z"
+    "generated_at": "2026-10-12T20:19:17.065Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 97
+      "download_count": 98
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -326,18 +326,32 @@
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.6.0/pkg_fgsystemreport_v1.6.0.zip",
       "download_count": 7
     },
-"plg_system_fgfaviconmanager": {
-  "name": "FG Favicon Manager",
-  "category": "Administration",
-  "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgfaviconmanager/master/assets/logo.webp",
-  "preview": null,
-  "compatibility": ["J5", "J6"],
-  "php": "8.1+",
-  "description": "Turns one source image into every favicon your site needs: PNG and ICO icons, Apple touch icon, dark-mode and administrator favicons, web app manifest and iOS web app tags, without editing the template.",
-  "tags": ["Joomla 5–6"],
-  "jed": null,
-  "demo": null,
-  "featured": false
-}    
+    "plg_system_fgfaviconmanager": {
+      "name": "FG Favicon Manager",
+      "category": "Administration",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgfaviconmanager/master/assets/logo.webp",
+      "preview": null,
+      "compatibility": [
+        "J5",
+        "J6"
+      ],
+      "php": "8.1+",
+      "description": "Turns one source image into every favicon your site needs: PNG and ICO icons, Apple touch icon, dark-mode and administrator favicons, web app manifest and iOS web app tags, without editing the template.",
+      "tags": [
+        "Joomla 5–6"
+      ],
+      "jed": null,
+      "demo": null,
+      "featured": false,
+      "html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-12T18:32:31Z",
+      "pushed_at": "2026-10-12T18:32:28Z",
+      "language": "PHP",
+      "release_tag": "v1.16.2",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.16.2",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.16.2/plg_system_fgfaviconmanager_v1.16.2.zip",
+      "download_count": 2
+    }
   }
 }
