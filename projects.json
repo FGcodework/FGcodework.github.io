@@ -298,6 +298,20 @@
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
       "download_count": 67
-    }
+    },
+"pkg_fgsystemreport": {
+  "name": "FG System Report",
+  "category": "Administration",
+  "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgsystemreport/master/assets/logo.webp",
+  "preview": null,
+  "compatibility": ["J5", "J6"],
+  "php": "8.1+",
+  "description": "Audit and monitoring toolkit for Joomla: site dashboard with PDF report, installed extensions with available updates, 30+ security checks with a health score, security history and scheduled e-mail notifications.",
+  "tags": ["Joomla 5–6"],
+  "jed": null,
+  "demo": null,
+  "featured": false
+}
+    
   }
 }
