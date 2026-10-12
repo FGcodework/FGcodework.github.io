@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-11T21:56:22.171Z"
+    "generated_at": "2026-10-12T05:51:40.451Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -75,8 +75,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
-      "updated_at": "2026-10-10T12:13:12Z",
-      "pushed_at": "2026-10-10T12:13:22Z",
+      "updated_at": "2026-10-11T23:05:23Z",
+      "pushed_at": "2026-10-11T23:05:19Z",
       "language": "PHP",
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.1",
@@ -299,19 +299,32 @@
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
       "download_count": 67
     },
-"pkg_fgsystemreport": {
-  "name": "FG System Report",
-  "category": "Administration",
-  "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgsystemreport/master/assets/logo.webp",
-  "preview": null,
-  "compatibility": ["J5", "J6"],
-  "php": "8.1+",
-  "description": "Audit and monitoring toolkit for Joomla: site dashboard with PDF report, installed extensions with available updates, 30+ security checks with a health score, security history and scheduled e-mail notifications.",
-  "tags": ["Joomla 5–6"],
-  "jed": null,
-  "demo": null,
-  "featured": false
-}
-    
+    "pkg_fgsystemreport": {
+      "name": "FG System Report",
+      "category": "Administration",
+      "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgsystemreport/master/assets/logo.webp",
+      "preview": null,
+      "compatibility": [
+        "J5",
+        "J6"
+      ],
+      "php": "8.1+",
+      "description": "Audit and monitoring toolkit for Joomla: site dashboard with PDF report, installed extensions with available updates, 30+ security checks with a health score, security history and scheduled e-mail notifications.",
+      "tags": [
+        "Joomla 5–6"
+      ],
+      "jed": null,
+      "demo": null,
+      "featured": false,
+      "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-11T22:15:14Z",
+      "pushed_at": "2026-10-11T22:15:10Z",
+      "language": "PHP",
+      "release_tag": "v1.6.0",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.6.0",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.6.0/pkg_fgsystemreport_v1.6.0.zip",
+      "download_count": 7
+    }
   }
 }
