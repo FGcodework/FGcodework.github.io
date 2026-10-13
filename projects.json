@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-13T14:08:45.441Z"
+    "generated_at": "2026-10-13T22:42:50.817Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -81,7 +81,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.1/plg_system_fgadminlogincustom_v1.19.1.zip",
-      "download_count": 78
+      "download_count": 79
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -242,7 +242,7 @@
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 75
+      "download_count": 76
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
