@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-13T00:37:33.632Z"
+    "generated_at": "2026-10-13T14:08:45.441Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 98
+      "download_count": 99
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -242,7 +242,7 @@
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 74
+      "download_count": 75
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
