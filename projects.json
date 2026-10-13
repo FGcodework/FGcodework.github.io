@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-12T20:19:17.065Z"
+    "generated_at": "2026-10-13T00:37:33.632Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -345,13 +345,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager",
       "stargazers_count": 0,
-      "updated_at": "2026-10-12T18:32:31Z",
-      "pushed_at": "2026-10-12T18:32:28Z",
+      "updated_at": "2026-10-12T21:58:17Z",
+      "pushed_at": "2026-10-12T21:58:19Z",
       "language": "PHP",
-      "release_tag": "v1.16.2",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.16.2",
-      "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.16.2/plg_system_fgfaviconmanager_v1.16.2.zip",
-      "download_count": 2
+      "release_tag": "v1.17.0",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.17.0",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.17.0/plg_system_fgfaviconmanager_v1.17.0.zip",
+      "download_count": 5
     }
   }
 }
