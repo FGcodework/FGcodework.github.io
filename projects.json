@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-16T11:20:30.932Z"
+    "generated_at": "2026-10-16T13:36:20.899Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -353,19 +353,32 @@
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.17.0/plg_system_fgfaviconmanager_v1.17.0.zip",
       "download_count": 5
     },
-  "com_fgextensionmanager": {
-    "name": "FG Extension Manager",
-    "category": "Administration",
-    "logo": "https://raw.githubusercontent.com/FGcodework/com_fgextensionmanager/master/assets/logo.webp",
-    "preview": null,
-    "compatibility": ["J5", "J6"],
-    "php": "8.1+",
-    "description": "Discovers, installs, updates and uninstalls the FG series of GitHub extensions from one admin screen, using Joomla's own installer and each repository's updates.xml.",
-    "tags": ["Joomla 5–6"],
-    "jed": null,
-    "demo": null,
-    "featured": false
-  }    
-
+    "com_fgextensionmanager": {
+      "name": "FG Extension Manager",
+      "category": "Administration",
+      "logo": "https://raw.githubusercontent.com/FGcodework/com_fgextensionmanager/master/assets/logo.webp",
+      "preview": null,
+      "compatibility": [
+        "J5",
+        "J6"
+      ],
+      "php": "8.1+",
+      "description": "Discovers, installs, updates and uninstalls the FG series of GitHub extensions from one admin screen, using Joomla's own installer and each repository's updates.xml.",
+      "tags": [
+        "Joomla 5–6"
+      ],
+      "jed": null,
+      "demo": null,
+      "featured": false,
+      "html_url": "https://github.com/FGcodework/com_fgextensionmanager",
+      "stargazers_count": 1,
+      "updated_at": "2026-10-16T13:31:03Z",
+      "pushed_at": "2026-10-16T13:30:59Z",
+      "language": "PHP",
+      "release_tag": "v1.27.2",
+      "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.2",
+      "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.2/com_fgextensionmanager_v1.27.2.zip",
+      "download_count": 95
+    }
   }
 }
