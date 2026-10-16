@@ -352,6 +352,20 @@
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.17.0",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.17.0/plg_system_fgfaviconmanager_v1.17.0.zip",
       "download_count": 5
-    }
+    },
+  "com_fgextensionmanager": {
+    "name": "FG Extension Manager",
+    "category": "Administration",
+    "logo": "https://raw.githubusercontent.com/FGcodework/com_fgextensionmanager/master/assets/logo.webp",
+    "preview": null,
+    "compatibility": ["J5", "J6"],
+    "php": "8.1+",
+    "description": "Discovers, installs, updates and uninstalls the FG series of GitHub extensions from one admin screen, using Joomla's own installer and each repository's updates.xml.",
+    "tags": ["Joomla 5–6"],
+    "jed": null,
+    "demo": null,
+    "featured": false
+  }    
+
   }
 }
