@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-16T21:05:27.062Z"
+    "generated_at": "2026-10-17T15:32:00.199Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
-      "download_count": 82
+      "download_count": 83
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
