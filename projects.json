@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-17T15:32:00.199Z"
+    "generated_at": "2026-10-18T11:01:12.330Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -183,8 +183,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator",
       "stargazers_count": 0,
-      "updated_at": "2026-10-08T18:06:02Z",
-      "pushed_at": "2026-10-08T18:05:58Z",
+      "updated_at": "2026-10-18T09:19:30Z",
+      "pushed_at": "2026-10-18T09:19:25Z",
       "language": "PHP",
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
