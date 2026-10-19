@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-19T04:37:47.280Z"
+    "generated_at": "2026-10-19T13:10:07.215Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -56,7 +56,7 @@
       "release_tag": "v1.3.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
-      "download_count": 26
+      "download_count": 30
     },
     "plg_system_fgadminlogincustom": {
       "name": "FG Admin Login Customizer",
@@ -81,7 +81,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.1/plg_system_fgadminlogincustom_v1.19.1.zip",
-      "download_count": 79
+      "download_count": 81
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 103
+      "download_count": 105
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.5.5/plg_system_fgremovegenerator_v1.5.5.zip",
-      "download_count": 53
+      "download_count": 55
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -242,7 +242,7 @@
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 78
+      "download_count": 80
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
