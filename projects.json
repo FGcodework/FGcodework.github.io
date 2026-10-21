@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-21T18:42:25.798Z"
+    "generated_at": "2026-10-21T21:41:15.057Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -399,8 +399,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgloginasuser",
       "stargazers_count": 0,
-      "updated_at": "2026-10-21T18:00:16Z",
-      "pushed_at": "2026-10-21T18:00:12Z",
+      "updated_at": "2026-10-21T19:47:42Z",
+      "pushed_at": "2026-10-21T19:47:39Z",
       "language": "PHP",
       "release_tag": "v1.3.0",
       "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.3.0",
