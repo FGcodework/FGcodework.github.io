@@ -379,6 +379,20 @@
       "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.2",
       "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.2/com_fgextensionmanager_v1.27.2.zip",
       "download_count": 96
-    }
+    },
+"pkg_fgloginasuser": {
+  "name": "FG Login as User",
+  "category": "Administration",
+  "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgloginasuser/master/assets/logo.webp",
+  "preview": null,
+  "compatibility": ["J5", "J6"],
+  "php": "8.3+",
+  "description": "Lets administrators log in as another user, to the frontend or the backend, to check what they see or test permissions, with a return bar, audit log, optional identity confirmation and automatic time limit.",
+  "tags": ["Joomla 5.4–6"],
+  "jed": null,
+  "demo": null,
+  "featured": false
+}    
+    
   }
 }
