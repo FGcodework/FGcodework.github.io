@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-21T11:45:50.386Z"
+    "generated_at": "2026-10-21T18:42:25.798Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -380,19 +380,32 @@
       "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.2/com_fgextensionmanager_v1.27.2.zip",
       "download_count": 96
     },
-"pkg_fgloginasuser": {
-  "name": "FG Login as User",
-  "category": "Administration",
-  "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgloginasuser/master/assets/logo.webp",
-  "preview": null,
-  "compatibility": ["J5", "J6"],
-  "php": "8.3+",
-  "description": "Lets administrators log in as another user, to the frontend or the backend, to check what they see or test permissions, with a return bar, audit log, optional identity confirmation and automatic time limit.",
-  "tags": ["Joomla 5.4–6"],
-  "jed": null,
-  "demo": null,
-  "featured": false
-}    
-    
+    "pkg_fgloginasuser": {
+      "name": "FG Login as User",
+      "category": "Administration",
+      "logo": "https://raw.githubusercontent.com/FGcodework/pkg_fgloginasuser/master/assets/logo.webp",
+      "preview": null,
+      "compatibility": [
+        "J5",
+        "J6"
+      ],
+      "php": "8.3+",
+      "description": "Lets administrators log in as another user, to the frontend or the backend, to check what they see or test permissions, with a return bar, audit log, optional identity confirmation and automatic time limit.",
+      "tags": [
+        "Joomla 5.4–6"
+      ],
+      "jed": null,
+      "demo": null,
+      "featured": false,
+      "html_url": "https://github.com/FGcodework/pkg_fgloginasuser",
+      "stargazers_count": 0,
+      "updated_at": "2026-10-21T18:00:16Z",
+      "pushed_at": "2026-10-21T18:00:12Z",
+      "language": "PHP",
+      "release_tag": "v1.3.0",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.3.0",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.3.0/pkg_fgloginasuser_v1.3.0.zip",
+      "download_count": 18
+    }
   }
 }
