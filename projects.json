@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-24T04:33:43.456Z"
+    "generated_at": "2026-10-25T16:14:54.171Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -270,7 +270,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
-      "download_count": 30
+      "download_count": 31
     },
     "plg_system_fgcustomrightclick": {
       "name": "FG Custom Right Click",
