@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-26T12:58:22.159Z"
+    "generated_at": "2026-10-26T22:38:25.498Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
-      "download_count": 86
+      "download_count": 88
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 116
+      "download_count": 117
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -345,13 +345,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager",
       "stargazers_count": 0,
-      "updated_at": "2026-10-26T12:55:32Z",
-      "pushed_at": "2026-10-26T12:55:32Z",
+      "updated_at": "2026-10-26T13:48:45Z",
+      "pushed_at": "2026-10-26T13:48:40Z",
       "language": "PHP",
-      "release_tag": "v1.18.1",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.18.1",
-      "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.18.1/plg_system_fgfaviconmanager_v1.18.1.zip",
-      "download_count": 6
+      "release_tag": "v1.19.0",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.0",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.0/plg_system_fgfaviconmanager_v1.19.0.zip",
+      "download_count": 9
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
