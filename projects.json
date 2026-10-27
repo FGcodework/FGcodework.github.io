@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-27T17:59:09.284Z"
+    "generated_at": "2026-10-27T22:12:06.082Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -372,13 +372,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/com_fgextensionmanager",
       "stargazers_count": 1,
-      "updated_at": "2026-10-16T16:45:55Z",
-      "pushed_at": "2026-10-16T16:45:52Z",
+      "updated_at": "2026-10-27T19:52:37Z",
+      "pushed_at": "2026-10-27T19:52:46Z",
       "language": "PHP",
-      "release_tag": "v1.27.2",
-      "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.2",
-      "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.2/com_fgextensionmanager_v1.27.2.zip",
-      "download_count": 97
+      "release_tag": "v1.27.3",
+      "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.3",
+      "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.3/com_fgextensionmanager_v1.27.3.zip",
+      "download_count": 99
     },
     "pkg_fgloginasuser": {
       "name": "FG Login as User",
