@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-27T12:08:08.374Z"
+    "generated_at": "2026-10-27T17:59:09.284Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -318,8 +318,8 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
       "stargazers_count": 0,
-      "updated_at": "2026-10-11T22:15:14Z",
-      "pushed_at": "2026-10-11T22:15:10Z",
+      "updated_at": "2026-10-27T13:24:49Z",
+      "pushed_at": "2026-10-27T13:24:45Z",
       "language": "PHP",
       "release_tag": "v1.6.0",
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.6.0",
@@ -378,7 +378,7 @@
       "release_tag": "v1.27.2",
       "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.2",
       "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.2/com_fgextensionmanager_v1.27.2.zip",
-      "download_count": 96
+      "download_count": 97
     },
     "pkg_fgloginasuser": {
       "name": "FG Login as User",
