@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-29T12:57:25.343Z"
+    "generated_at": "2026-10-29T22:43:27.393Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -318,13 +318,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
       "stargazers_count": 0,
-      "updated_at": "2026-10-28T19:31:45Z",
-      "pushed_at": "2026-10-28T19:31:50Z",
+      "updated_at": "2026-10-29T22:00:10Z",
+      "pushed_at": "2026-10-29T22:00:05Z",
       "language": "PHP",
-      "release_tag": "v1.11.1",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.11.1",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.11.1/pkg_fgsystemreport_v1.11.1.zip",
-      "download_count": 17
+      "release_tag": "v1.13.6",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.6",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.6/pkg_fgsystemreport_v1.13.6.zip",
+      "download_count": 70
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -351,7 +351,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 19
+      "download_count": 21
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
@@ -378,7 +378,7 @@
       "release_tag": "v1.27.3",
       "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.3",
       "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.3/com_fgextensionmanager_v1.27.3.zip",
-      "download_count": 99
+      "download_count": 101
     },
     "pkg_fgloginasuser": {
       "name": "FG Login as User",
