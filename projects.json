@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-30T12:51:47.546Z"
+    "generated_at": "2026-10-30T22:17:14.376Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.3.10",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
-      "download_count": 89
+      "download_count": 92
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -75,13 +75,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
       "stargazers_count": 0,
-      "updated_at": "2026-10-11T23:05:23Z",
-      "pushed_at": "2026-10-11T23:05:19Z",
+      "updated_at": "2026-10-30T19:32:27Z",
+      "pushed_at": "2026-10-30T19:32:23Z",
       "language": "PHP",
-      "release_tag": "v1.19.1",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.1",
-      "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.1/plg_system_fgadminlogincustom_v1.19.1.zip",
-      "download_count": 85
+      "release_tag": "v1.19.3",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.3",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.3/plg_system_fgadminlogincustom_v1.19.3.zip",
+      "download_count": 103
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -318,13 +318,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
       "stargazers_count": 0,
-      "updated_at": "2026-10-30T12:51:24Z",
-      "pushed_at": "2026-10-30T12:51:20Z",
+      "updated_at": "2026-10-30T18:48:54Z",
+      "pushed_at": "2026-10-30T18:48:50Z",
       "language": "PHP",
-      "release_tag": "v1.13.21",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.21",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.21/pkg_fgsystemreport_v1.13.21.zip",
-      "download_count": 92
+      "release_tag": "v1.13.30",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.30",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.30/pkg_fgsystemreport_v1.13.30.zip",
+      "download_count": 116
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -372,13 +372,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/com_fgextensionmanager",
       "stargazers_count": 1,
-      "updated_at": "2026-10-27T19:52:37Z",
-      "pushed_at": "2026-10-27T19:52:46Z",
+      "updated_at": "2026-10-30T15:11:29Z",
+      "pushed_at": "2026-10-30T15:11:25Z",
       "language": "PHP",
-      "release_tag": "v1.27.3",
-      "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.3",
-      "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.3/com_fgextensionmanager_v1.27.3.zip",
-      "download_count": 101
+      "release_tag": "v1.27.4",
+      "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.4",
+      "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.4/com_fgextensionmanager_v1.27.4.zip",
+      "download_count": 102
     },
     "pkg_fgloginasuser": {
       "name": "FG Login as User",
@@ -399,13 +399,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgloginasuser",
       "stargazers_count": 0,
-      "updated_at": "2026-10-21T19:47:42Z",
-      "pushed_at": "2026-10-21T19:47:39Z",
+      "updated_at": "2026-10-30T20:19:41Z",
+      "pushed_at": "2026-10-30T20:19:37Z",
       "language": "PHP",
-      "release_tag": "v1.3.0",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.3.0",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.3.0/pkg_fgloginasuser_v1.3.0.zip",
-      "download_count": 18
+      "release_tag": "v1.4.0",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.4.0",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.4.0/pkg_fgloginasuser_v1.4.0.zip",
+      "download_count": 37
     }
   }
 }
