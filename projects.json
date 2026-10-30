@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-29T22:43:27.393Z"
+    "generated_at": "2026-10-30T12:51:47.546Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -242,7 +242,7 @@
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 88
+      "download_count": 89
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
@@ -318,13 +318,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
       "stargazers_count": 0,
-      "updated_at": "2026-10-29T22:00:10Z",
-      "pushed_at": "2026-10-29T22:00:05Z",
+      "updated_at": "2026-10-30T12:51:24Z",
+      "pushed_at": "2026-10-30T12:51:20Z",
       "language": "PHP",
-      "release_tag": "v1.13.6",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.6",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.6/pkg_fgsystemreport_v1.13.6.zip",
-      "download_count": 70
+      "release_tag": "v1.13.21",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.21",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.21/pkg_fgsystemreport_v1.13.21.zip",
+      "download_count": 92
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
