@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-31T05:37:27.351Z"
+    "generated_at": "2026-10-31T12:23:53.726Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.5",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.5",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.5/plg_fgeditorswitcher_v2.3.5.zip",
-      "download_count": 119
+      "download_count": 120
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -324,7 +324,7 @@
       "release_tag": "v1.13.30",
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.30",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.30/pkg_fgsystemreport_v1.13.30.zip",
-      "download_count": 116
+      "download_count": 117
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -351,7 +351,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 21
+      "download_count": 23
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
@@ -378,7 +378,7 @@
       "release_tag": "v1.27.4",
       "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.27.4",
       "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.27.4/com_fgextensionmanager_v1.27.4.zip",
-      "download_count": 102
+      "download_count": 104
     },
     "pkg_fgloginasuser": {
       "name": "FG Login as User",
@@ -399,13 +399,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgloginasuser",
       "stargazers_count": 0,
-      "updated_at": "2026-10-30T20:19:41Z",
-      "pushed_at": "2026-10-30T20:19:37Z",
+      "updated_at": "2026-10-31T11:26:58Z",
+      "pushed_at": "2026-10-31T11:26:55Z",
       "language": "PHP",
-      "release_tag": "v1.4.0",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.4.0",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.4.0/pkg_fgloginasuser_v1.4.0.zip",
-      "download_count": 37
+      "release_tag": "v1.6.1",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.6.1",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.6.1/pkg_fgloginasuser_v1.6.1.zip",
+      "download_count": 46
     }
   }
 }
