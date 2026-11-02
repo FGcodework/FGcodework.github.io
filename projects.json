@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-02T05:58:24.643Z"
+    "generated_at": "2026-11-02T15:45:58.212Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -23,13 +23,13 @@
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
-      "updated_at": "2026-10-08T10:32:27Z",
-      "pushed_at": "2026-10-08T10:32:23Z",
+      "updated_at": "2026-11-02T10:35:52Z",
+      "pushed_at": "2026-11-02T10:35:49Z",
       "language": "PHP",
-      "release_tag": "v2.3.10",
-      "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.3.10",
-      "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.3.10/plg_content_fgautolightbox_v2.3.10_j6x.zip",
-      "download_count": 94
+      "release_tag": "v2.4.0",
+      "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
+      "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
+      "download_count": 145
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -81,7 +81,7 @@
       "release_tag": "v1.19.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.3/plg_system_fgadminlogincustom_v1.19.3.zip",
-      "download_count": 110
+      "download_count": 112
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 161
+      "download_count": 162
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
