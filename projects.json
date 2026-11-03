@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-03T14:09:31.880Z"
+    "generated_at": "2026-11-03T23:20:28.518Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
-      "download_count": 147
+      "download_count": 148
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -81,7 +81,7 @@
       "release_tag": "v1.19.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.3/plg_system_fgadminlogincustom_v1.19.3.zip",
-      "download_count": 113
+      "download_count": 115
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 165
+      "download_count": 167
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -318,13 +318,13 @@
       "featured": false,
       "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
       "stargazers_count": 0,
-      "updated_at": "2026-10-31T13:31:20Z",
-      "pushed_at": "2026-10-31T13:31:16Z",
+      "updated_at": "2026-11-03T21:09:34Z",
+      "pushed_at": "2026-11-03T21:09:29Z",
       "language": "PHP",
-      "release_tag": "v1.13.31",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.31",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.31/pkg_fgsystemreport_v1.13.31.zip",
-      "download_count": 123
+      "release_tag": "v1.13.35",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.35",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.35/pkg_fgsystemreport_v1.13.35.zip",
+      "download_count": 136
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -351,7 +351,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 26
+      "download_count": 27
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
