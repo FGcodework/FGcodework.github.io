@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-06T06:39:54.147Z"
+    "generated_at": "2026-11-06T19:22:13.027Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
-      "download_count": 148
+      "download_count": 149
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 170
+      "download_count": 171
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -189,7 +189,7 @@
       "release_tag": "v1.5.5",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.5.5",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.5.5/plg_system_fgremovegenerator_v1.5.5.zip",
-      "download_count": 56
+      "download_count": 57
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -270,7 +270,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
-      "download_count": 34
+      "download_count": 36
     },
     "plg_system_fgcustomrightclick": {
       "name": "FG Custom Right Click",
@@ -405,7 +405,7 @@
       "release_tag": "v1.6.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.6.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.6.1/pkg_fgloginasuser_v1.6.1.zip",
-      "download_count": 46
+      "download_count": 47
     }
   }
 }
