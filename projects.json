@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-05T19:55:00.173Z"
+    "generated_at": "2026-11-06T06:39:54.147Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -23,8 +23,8 @@
       "featured": true,
       "html_url": "https://github.com/FGcodework/plg_content_fgautolightbox",
       "stargazers_count": 0,
-      "updated_at": "2026-11-05T19:18:17Z",
-      "pushed_at": "2026-11-05T19:18:12Z",
+      "updated_at": "2026-11-05T21:36:13Z",
+      "pushed_at": "2026-11-05T21:36:08Z",
       "language": "PHP",
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
@@ -270,7 +270,7 @@
       "release_tag": "v3.0.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/tag/v3.0.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgwatermark/releases/download/v3.0.0/plg_content_fgwatermark_v3.0.0.zip",
-      "download_count": 33
+      "download_count": 34
     },
     "plg_system_fgcustomrightclick": {
       "name": "FG Custom Right Click",
@@ -324,7 +324,7 @@
       "release_tag": "v1.13.36",
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.36",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.36/pkg_fgsystemreport_v1.13.36.zip",
-      "download_count": 196
+      "download_count": 197
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
