@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-07T12:57:41.769Z"
+    "generated_at": "2026-11-07T21:47:44.307Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -56,7 +56,7 @@
       "release_tag": "v1.3.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
-      "download_count": 31
+      "download_count": 32
     },
     "plg_system_fgadminlogincustom": {
       "name": "FG Admin Login Customizer",
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 171
+      "download_count": 173
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -297,7 +297,7 @@
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
-      "download_count": 70
+      "download_count": 71
     },
     "pkg_fgsystemreport": {
       "name": "FG System Report",
@@ -324,7 +324,7 @@
       "release_tag": "v1.13.36",
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.36",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.36/pkg_fgsystemreport_v1.13.36.zip",
-      "download_count": 197
+      "download_count": 198
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
