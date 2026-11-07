@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-06T19:22:13.027Z"
+    "generated_at": "2026-11-07T05:55:31.436Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -56,7 +56,7 @@
       "release_tag": "v1.3.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
-      "download_count": 30
+      "download_count": 31
     },
     "plg_system_fgadminlogincustom": {
       "name": "FG Admin Login Customizer",
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
-      "download_count": 98
+      "download_count": 104
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
