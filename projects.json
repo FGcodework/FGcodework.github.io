@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-07T21:47:44.307Z"
+    "generated_at": "2026-11-08T13:20:38.579Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 173
+      "download_count": 175
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
