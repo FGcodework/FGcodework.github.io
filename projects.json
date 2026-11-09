@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-09T06:21:47.392Z"
+    "generated_at": "2026-11-09T22:18:42.873Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
-      "download_count": 150
+      "download_count": 154
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -324,7 +324,7 @@
       "release_tag": "v1.13.36",
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.13.36",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.13.36/pkg_fgsystemreport_v1.13.36.zip",
-      "download_count": 198
+      "download_count": 200
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -351,7 +351,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 27
+      "download_count": 30
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
