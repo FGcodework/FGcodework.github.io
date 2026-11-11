@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-11T06:12:17.481Z"
+    "generated_at": "2026-11-11T14:18:12.554Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
-      "download_count": 106
+      "download_count": 107
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -297,7 +297,7 @@
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
-      "download_count": 71
+      "download_count": 72
     },
     "pkg_fgsystemreport": {
       "name": "FG System Report",
