@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-13T19:39:10.251Z"
+    "generated_at": "2026-11-14T06:18:01.926Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -351,7 +351,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 37
+      "download_count": 39
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
