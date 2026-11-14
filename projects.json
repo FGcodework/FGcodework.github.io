@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-14T06:18:01.926Z"
+    "generated_at": "2026-11-14T17:58:51.457Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -136,7 +136,7 @@
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
-      "download_count": 110
+      "download_count": 111
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -351,7 +351,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 39
+      "download_count": 40
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
