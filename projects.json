@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-17T20:52:39.905Z"
+    "generated_at": "2026-11-18T07:24:14.087Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -189,7 +189,7 @@
       "release_tag": "v1.6.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.6.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.6.1/plg_system_fgremovegenerator_v1.6.1.zip",
-      "download_count": 75
+      "download_count": 76
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -297,7 +297,7 @@
       "release_tag": "v1.13.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/tag/v1.13.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgcustomrightclick/releases/download/v1.13.4/plg_system_fgcustomrightclick_v1.13.4.zip",
-      "download_count": 78
+      "download_count": 79
     },
     "pkg_fgsystemreport": {
       "name": "FG System Report",
