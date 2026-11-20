@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-19T20:33:07.198Z"
+    "generated_at": "2026-11-20T07:10:48.754Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
-      "download_count": 161
+      "download_count": 162
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -81,7 +81,7 @@
       "release_tag": "v1.19.4",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.4",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.4/plg_system_fgadminlogincustom_v1.19.4.zip",
-      "download_count": 122
+      "download_count": 125
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
