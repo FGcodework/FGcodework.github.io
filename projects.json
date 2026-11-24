@@ -58,31 +58,6 @@
       "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
       "download_count": 35
     },
-    "plg_system_fgadminlogincustom": {
-      "name": "FG Admin Login Customizer",
-      "category": "Administration",
-      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgadminlogincustom/master/assets/logo.webp",
-      "preview": null,
-      "compatibility": [
-        "J6"
-      ],
-      "php": "8.1+",
-      "description": "Customize the Joomla administrator login screen with your own branding, colours, background and front-end styling.",
-      "tags": [
-        "Joomla 6"
-      ],
-      "jed": "https://extensions.joomla.org/extension/administration/admin-styling/fg-admin-login-customizer/",
-      "featured": false,
-      "html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom",
-      "stargazers_count": 0,
-      "updated_at": "2026-10-30T19:32:27Z",
-      "pushed_at": "2026-11-19T18:48:31Z",
-      "language": "PHP",
-      "release_tag": "v1.19.4",
-      "release_html_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/tag/v1.19.4",
-      "release_zip_url": "https://github.com/FGcodework/plg_system_fgadminlogincustom/releases/download/v1.19.4/plg_system_fgadminlogincustom_v1.19.4.zip",
-      "download_count": 129
-    },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
       "category": "Security",
