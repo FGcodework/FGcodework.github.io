@@ -406,6 +406,19 @@
       "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.6.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.6.1/pkg_fgloginasuser_v1.6.1.zip",
       "download_count": 48
-    }
+    },
+    "plg_system_fgadmincustom": {
+      "name": "FG Admin Customizer",
+      "category": "Administration",
+      "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgadmincustom/master/assets/logo.webp",
+      "preview": null,
+      "compatibility": ["J5", "J6"],
+      "php": "8.1+",
+      "description": "Gives the whole Joomla administrator one visual identity: the login page (logo, background, card, colors, footer) and the logged-in Atum back-end (header, sidebar, page background, logo), driven by one shared brand color.",
+      "tags": ["Joomla 5–6"],
+      "jed": null,
+      "demo": null,
+      "featured": false
+    }    
   }
 }
