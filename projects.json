@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-23T23:51:13.224Z"
+    "generated_at": "2026-11-24T08:23:54.968Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -163,7 +163,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 201
+      "download_count": 204
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -189,7 +189,7 @@
       "release_tag": "v1.6.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/tag/v1.6.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgremovegenerator/releases/download/v1.6.1/plg_system_fgremovegenerator_v1.6.1.zip",
-      "download_count": 81
+      "download_count": 82
     },
     "plg_system_fgstripcomments": {
       "name": "FG Strip Comments",
@@ -412,13 +412,27 @@
       "category": "Administration",
       "logo": "https://raw.githubusercontent.com/FGcodework/plg_system_fgadmincustom/master/assets/logo.webp",
       "preview": null,
-      "compatibility": ["J5", "J6"],
+      "compatibility": [
+        "J5",
+        "J6"
+      ],
       "php": "8.1+",
       "description": "Gives the whole Joomla administrator one visual identity: the login page (logo, background, card, colors, footer) and the logged-in Atum back-end (header, sidebar, page background, logo), driven by one shared brand color.",
-      "tags": ["Joomla 5–6"],
+      "tags": [
+        "Joomla 5–6"
+      ],
       "jed": null,
       "demo": null,
-      "featured": false
-    }    
+      "featured": false,
+      "html_url": "https://github.com/FGcodework/plg_system_fgadmincustom",
+      "stargazers_count": 0,
+      "updated_at": "2026-11-20T12:47:27Z",
+      "pushed_at": "2026-11-21T17:03:46Z",
+      "language": "PHP",
+      "release_tag": "v1.0.8",
+      "release_html_url": "https://github.com/FGcodework/plg_system_fgadmincustom/releases/tag/v1.0.8",
+      "release_zip_url": "https://github.com/FGcodework/plg_system_fgadmincustom/releases/download/v1.0.8/plg_system_fgadmincustom_v1.0.8.zip",
+      "download_count": 17
+    }
   }
 }
