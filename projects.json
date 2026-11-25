@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-24T22:24:04.192Z"
+    "generated_at": "2026-11-25T08:28:30.311Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -294,12 +294,12 @@
       "html_url": "https://github.com/FGcodework/pkg_fgsystemreport",
       "stargazers_count": 0,
       "updated_at": "2026-11-05T09:56:11Z",
-      "pushed_at": "2026-11-24T21:46:54Z",
+      "pushed_at": "2026-11-25T08:04:29Z",
       "language": "PHP",
-      "release_tag": "v1.18.17",
-      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.18.17",
-      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.18.17/pkg_fgsystemreport_v1.18.17.zip",
-      "download_count": 85
+      "release_tag": "v1.18.18",
+      "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.18.18",
+      "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.18.18/pkg_fgsystemreport_v1.18.18.zip",
+      "download_count": 79
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -353,7 +353,7 @@
       "release_tag": "v1.28.0",
       "release_html_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/tag/v1.28.0",
       "release_zip_url": "https://github.com/FGcodework/com_fgextensionmanager/releases/download/v1.28.0/com_fgextensionmanager_v1.28.0.zip",
-      "download_count": 15
+      "download_count": 18
     },
     "pkg_fgloginasuser": {
       "name": "FG Login as User",
