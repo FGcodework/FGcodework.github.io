@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-25T08:28:30.311Z"
+    "generated_at": "2026-11-25T21:39:24.376Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
-      "download_count": 163
+      "download_count": 164
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -111,7 +111,7 @@
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
-      "download_count": 118
+      "download_count": 119
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -138,7 +138,7 @@
       "release_tag": "v2.3.6",
       "release_html_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/tag/v2.3.6",
       "release_zip_url": "https://github.com/FGcodework/plg_fgeditorswitcher/releases/download/v2.3.6/plg_fgeditorswitcher_v2.3.6.zip",
-      "download_count": 207
+      "download_count": 208
     },
     "plg_system_fgremovegenerator": {
       "name": "FG Remove Generator",
@@ -299,7 +299,7 @@
       "release_tag": "v1.18.18",
       "release_html_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/tag/v1.18.18",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgsystemreport/releases/download/v1.18.18/pkg_fgsystemreport_v1.18.18.zip",
-      "download_count": 79
+      "download_count": 80
     },
     "plg_system_fgfaviconmanager": {
       "name": "FG Favicon Manager",
@@ -380,7 +380,7 @@
       "release_tag": "v1.6.2",
       "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.6.2",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.6.2/pkg_fgloginasuser_v1.6.2.zip",
-      "download_count": 52
+      "download_count": 53
     },
     "plg_system_fgadmincustom": {
       "name": "FG Admin Customizer",
