@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-27T08:25:24.009Z"
+    "generated_at": "2026-11-27T21:14:41.624Z"
   },
   "projects": {
     "plg_content_fgautolightbox": {
@@ -29,7 +29,7 @@
       "release_tag": "v2.4.0",
       "release_html_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/tag/v2.4.0",
       "release_zip_url": "https://github.com/FGcodework/plg_content_fgautolightbox/releases/download/v2.4.0/plg_content_fgautolightbox_v2.4.0_j6x.zip",
-      "download_count": 166
+      "download_count": 167
     },
     "pkg_fgbackendlangswitcher": {
       "name": "FG Backend LangSwitcher",
@@ -56,7 +56,7 @@
       "release_tag": "v1.3.1",
       "release_html_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/tag/v1.3.1",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgbackendlangswitcher/releases/download/v1.3.1/pkg_fgbackendlangswitcher_v1.3.1.zip",
-      "download_count": 36
+      "download_count": 37
     },
     "plg_system_fgofflineipwhitelist": {
       "name": "FG Offline IP Whitelist",
@@ -111,7 +111,7 @@
       "release_tag": "j46-v1.9.3",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/tag/j46-v1.9.3",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgemailremover/releases/download/j46-v1.9.3/plg_system_fgemailremover_j46_v1.9.3.zip",
-      "download_count": 121
+      "download_count": 122
     },
     "plg_fgeditorswitcher": {
       "name": "FG Editor Switcher",
@@ -217,7 +217,7 @@
       "release_tag": "v2.1.7",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/tag/v2.1.7",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgresponsivetables/releases/download/v2.1.7/plg_system_fgresponsivetables_v2.1.7.zip",
-      "download_count": 96
+      "download_count": 97
     },
     "plg_content_fgwatermark": {
       "name": "FG Watermark",
@@ -326,7 +326,7 @@
       "release_tag": "v1.19.1",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/tag/v1.19.1",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgfaviconmanager/releases/download/v1.19.1/plg_system_fgfaviconmanager_v1.19.1.zip",
-      "download_count": 51
+      "download_count": 52
     },
     "com_fgextensionmanager": {
       "name": "FG Extension Manager",
@@ -380,7 +380,7 @@
       "release_tag": "v1.6.2",
       "release_html_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/tag/v1.6.2",
       "release_zip_url": "https://github.com/FGcodework/pkg_fgloginasuser/releases/download/v1.6.2/pkg_fgloginasuser_v1.6.2.zip",
-      "download_count": 53
+      "download_count": 55
     },
     "plg_system_fgadmincustom": {
       "name": "FG Admin Customizer",
@@ -407,7 +407,7 @@
       "release_tag": "v1.0.9",
       "release_html_url": "https://github.com/FGcodework/plg_system_fgadmincustom/releases/tag/v1.0.9",
       "release_zip_url": "https://github.com/FGcodework/plg_system_fgadmincustom/releases/download/v1.0.9/plg_system_fgadmincustom_v1.0.9.zip",
-      "download_count": 23
+      "download_count": 24
     }
   }
 }
